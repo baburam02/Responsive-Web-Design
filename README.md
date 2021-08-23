@@ -29,7 +29,10 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-#Want to see my project html file then ## click the link below:
+# Want to see my project html file then
+
+## click the link below:
+
 https://gitman00.github.io/Responsive-Web-Design/NAKBRSS.org/Nabin.html
 
 ### Jekyll Themes
